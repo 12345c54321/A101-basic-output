@@ -6,5 +6,6 @@
 Sample output:
 
 Hello World!
-cfgchchcg
+
 """
+print("Hello World!")
